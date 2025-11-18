@@ -1,0 +1,22 @@
+{
+  "popups": [
+    {
+      "type": "image",
+      "title": "⚠ Withdrawal Security Alert ⚠",
+      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/popup1.png",
+      "button": "Confirm"
+    },
+    {
+      "type": "text",
+      "title": "⚠️ Expiration of [.in] Domains",
+      "content": [
+        "🔔 Important Notice: Expiration of [.in] Domains",
+        "Dear Members,",
+        "Please be informed that our .in domains will expire soon.",
+        "Use our official primary domain or contact support.",
+        "Warm regards — 82Lottery"
+      ],
+      "button": "Confirm"
+    }
+  ]
+}
