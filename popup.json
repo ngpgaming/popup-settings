@@ -1,19 +1,23 @@
 {
   "popups": [
     {
+      "id": 1,
       "type": "image",
+      "active": true,
       "title": "⚠ Withdrawal Security Alert ⚠",
       "image": "https://raw.githubusercontent.com/ngpgaming/popup-settings/main/assets/popup1.png",
       "button": "Confirm"
     },
     {
+      "id": 2,
       "type": "text",
+      "active": true,
       "title": "⚠️ Expiration of [.in] Domains",
       "content": [
         "🔔 Important Notice: Expiration of [.in] Domains",
         "Dear Members,",
         "Please be informed that our .in domains will expire soon.",
-        "Use our official primary domain or contact support.",
+        "Use primary domain or contact support.",
         "Warm regards — 82Lottery"
       ],
       "button": "Confirm"
